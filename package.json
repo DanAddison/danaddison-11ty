@@ -1,5 +1,5 @@
 {
-  "name": "eleventastic",
+  "name": "eleventous",
   "version": "1.0.0",
   "description": "A boilerplate for eleventy websites",
   "browserslist": [
@@ -16,9 +16,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/maxboeck/eleventastic"
+    "url": "https://github.com/DanAddison/eleventous"
   },
-  "author": "Max Böck",
+  "author": "Dan Addison",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.11.0",

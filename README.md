@@ -4,9 +4,9 @@
   </a>
 </div>
 
-# Eleventous
+# Dan Addison personal portfolio website
 
-A simple Eleventy Starter Kit, my base for all new 11ty projects.
+Build on [Eleventous](https://github.com/DanAddison/eleventous), my simple Eleventy Starter Kit.
 
 I've added a little more flesh on the bones of [Eleventastic](https://github.com/maxboeck/eleventastic) by Max Boeck.
 
