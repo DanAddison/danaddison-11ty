@@ -39,3 +39,21 @@ body {
     margin-right: auto;
     max-width: $container-max-width;
 }
+
+.columns {
+    @include mq(lg) {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        .column {
+            &--left {
+                width: 55%;
+            }
+
+            &--right {
+                width: 40%;
+            }
+        }
+    }
+}

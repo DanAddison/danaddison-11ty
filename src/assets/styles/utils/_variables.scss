@@ -4,7 +4,7 @@
 
 $breakpoints: (
     md: 670px,
-    lg: 940px,
+    lg: 860px,
     xl: 1260px
 );
 
@@ -13,16 +13,15 @@ $container-max-width: 1200px;
 // Colors
 //
 // Brand Colors
-$color-white: #EDEBEC;
+$color-white: #edebec;
 $color-green: #9bbfa7;
-$color-yellow: #E8B627;
+$color-yellow: #e8b627;
 $color-brown: #875936;
 $color-black: #323339;
 
 // Color Mappings
 $bg-color: $color-black;
 $text-color: $color-white;
-
 
 // Typography
 //
@@ -41,8 +40,6 @@ $text-color: $color-white;
 $font-family-sans-serif: 'Poppins', 'Roboto', 'Helvetica Neue', sans-serif;
 $font-family-serif: Georgia, Times, serif;
 $font-family-monospace: Menlo, Monaco, Consolas, monospace;
-
-
 
 // Animation
 //
