@@ -1,7 +1,7 @@
 .posts-list {
     margin-top: $spacing;
 
-    &__item {	
+    &__item {
         margin-bottom: $spacing;
 
         h2 {
@@ -13,16 +13,15 @@
         }
 
         time {
-            color: rgba($color-white, .6);
+            color: $color-light;
         }
     }
-
 
     &__excerpt {
         margin-bottom: 0;
     }
-    
+
     &__readmore {
-        color: rgba($color-white, .6);
+        color: $color-light;
     }
 }

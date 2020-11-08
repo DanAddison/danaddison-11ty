@@ -2,29 +2,29 @@
 ## border box
 *********************************************************/
 html {
-  box-sizing: border-box;
-  overflow-y: scroll;
+    box-sizing: border-box;
+    overflow-y: scroll;
 }
 
 *,
 *::before,
 *::after {
-  box-sizing: inherit;
+    box-sizing: inherit;
 }
 
 /*********************************************************
 ## Typography
 *********************************************************/
 html {
-font-size: 100%;
+    font-size: 100%;
 }
 
 body {
-  font-family: $font-family-sans-serif;
-  font-size: 1rem;
-  line-height: 1.5;
-  font-weight: 400;
-  color: $color-white;
+    font-family: $font-family-sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+    color: $color-white;
 }
 
 h1,
@@ -44,8 +44,8 @@ h1 {
 }
 
 h2 {
-    font-size: 2.125rem;
-    font-weight: 700;
+    font-size: 1.75rem;
+    font-weight: 400;
 }
 
 p {
@@ -53,11 +53,11 @@ p {
 }
 
 a {
-  color: $color-white;
-  &:hover,
-  &:focus {
-    color: $color-yellow;
-  } 
+    color: $color-white;
+    &:hover,
+    &:focus {
+        color: $color-yellow;
+    }
 }
 
 .lead {
@@ -71,7 +71,13 @@ a {
 }
 
 ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 0;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+}
+
+blockquote {
+    margin-left: 0;
+    color: $color-light;
+    font-style: italic;
 }
