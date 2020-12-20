@@ -1,0 +1,15 @@
+// used at foot of Music page
+.gallery {
+    @include mq(md) {
+        display: flex;
+        margin-left: -$spacing;
+
+        figure {
+            margin: $spacing 0 $spacing $spacing;
+
+            figcaption {
+                color: $color-light;
+            }
+        }
+    }
+}

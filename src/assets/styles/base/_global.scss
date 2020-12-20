@@ -53,10 +53,11 @@ p {
 }
 
 a {
-    color: $color-white;
+    color: $color-yellow;
+    text-decoration: none;
     &:hover,
     &:focus {
-        color: $color-yellow;
+        text-decoration: underline;
     }
 }
 
@@ -68,6 +69,14 @@ a {
     @include mq(md) {
         font-size: 2rem;
     }
+}
+
+.fancy-link {
+    padding-left: 0.2em;
+    padding-right: 0.2em;
+    margin-right: 0.2em;
+    background-color: $color-brown;
+    text-decoration: none;
 }
 
 ul {

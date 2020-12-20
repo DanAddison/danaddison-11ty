@@ -59,21 +59,6 @@ body {
     }
 }
 
-.gallery {
-    @include mq(md) {
-        display: flex;
-        margin-left: -$spacing;
-
-        figure {
-            margin: $spacing 0 $spacing $spacing;
-
-            figcaption {
-                color: $color-light;
-            }
-        }
-    }
-}
-
 .homepage-links {
     li {
         margin-bottom: $spacing/2;
