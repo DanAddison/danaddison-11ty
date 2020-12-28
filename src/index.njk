@@ -1,7 +1,5 @@
 ---
 layout: base
-eleventyNavigation:
-  key: Home
 ---
 
 <div class="columns">
@@ -9,7 +7,7 @@ eleventyNavigation:
   <div class="column column--left">
 
     <p>Hi, welcome to my personal website. Have a look around for a few insights into my creative output.</p>
-    <p>I love making
+    <p>This includes making
       <a class="fancy-link" href="/music">music,</a>
       <a class="fancy-link" href="/art">art,</a>
       <a class="fancy-link" href="/video">videos,</a>
@@ -18,6 +16,28 @@ eleventyNavigation:
       <a class="fancy-link" href="/web">websites.</a>
     </p>
     <p>I also love low-angle sunshine, family and friends, indie cinema, languid bike rides, calisthenics, literary fiction, summer sea swimming, Shane Carruth, Alex Honnold, Rose Namajunas, Kendrick Lamar and Alan Partridge.</p>
+
+    <p>Fill in the form below if you want to get in touch, or just do it this way
+      <a href="https://www.instagram.com/dandevelops/">{% icon "instagram" %}</a>
+    </p>
+
+    <form name="contact-form" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+      <div class="sr-only">
+        <label htmlfor="bot-field">Don’t fill this out if you're human:</label>
+        <input name="bot-field"/>
+      </div>
+      <input type="hidden" name="form-name" value="rsvp_2021"/>
+      <div class="form__element">
+        <input type="text" name="name" placeholder="Your Name" required="required"/>
+      </div>
+      <div class="form__element">
+        <input type="email" name="email" placeholder="Your Email" required="required"/>
+      </div>
+      <div class="form__element">
+        <textarea type="text" name="message" placeholder="What's on your mind?" rows="4"></textarea>
+      </div>
+      <button class="btn" type="submit">Send</button>
+    </form>
   </div>
 
   <div class="column column--right">
