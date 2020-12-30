@@ -8,13 +8,18 @@
     }
 
     a {
-      text-decoration: none;
+        text-decoration: none;
     }
 }
 
 .site-branding {
-  font-size: 2em;
-  a {
-    color: $color-white;
-  }
+    font-size: 2em;
+    a {
+        color: $color-white;
+
+        &:hover,
+        &:focus {
+            color: $color-yellow;
+        }
+    }
 }

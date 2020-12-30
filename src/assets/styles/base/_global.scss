@@ -89,4 +89,8 @@ blockquote {
     margin-left: 0;
     color: $color-light;
     font-style: italic;
+    p {
+        font-size: 1.1rem;
+        margin-bottom: 0.25em;
+    }
 }

@@ -2,7 +2,7 @@
     margin-top: $spacing;
 
     &__item {
-        margin-bottom: $spacing;
+        margin-bottom: $spacing * 2;
 
         h2 {
             margin-bottom: 0;
@@ -17,11 +17,26 @@
         }
     }
 
+    &__title a {
+        &:hover,
+        &:focus {
+            text-decoration: underline;
+        }
+    }
+
     &__excerpt {
+        margin-top: 0.5em;
         margin-bottom: 0;
     }
 
     &__readmore {
+        display: block;
         color: $color-light;
+
+        &:hover,
+        &:focus {
+            text-decoration: none;
+            color: $color-yellow;
+        }
     }
 }

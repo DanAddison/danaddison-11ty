@@ -7,8 +7,8 @@
     }
 
     &__item {
-        &--active {
-            text-decoration: underline;
+        &--active a {
+            color: $color-yellow;
         }
     }
 
@@ -16,6 +16,11 @@
         display: block;
         padding: 0.5em 1em;
         color: $color-white;
+
+        &:hover,
+        &:focus {
+            text-decoration: underline;
+        }
     }
 
     // mobile size
