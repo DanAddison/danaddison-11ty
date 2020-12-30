@@ -42,8 +42,11 @@ body {
 
 .columns {
     margin-bottom: $spacing;
+    display: flex;
+    flex-direction: column;
+
     @include mq(lg) {
-        display: flex;
+        flex-direction: row;
         flex-wrap: wrap;
         justify-content: space-between;
 

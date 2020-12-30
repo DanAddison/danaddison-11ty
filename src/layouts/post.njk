@@ -1,8 +1,18 @@
 ---
 layout: base
 ---
-<article class="container">
-    <p>{{ date | dateToFormat('DD') }}</p>
+<article class="single-post">
+    <p class="post-date">{{ date | dateToFormat('DD') }}</p>
     <h1>{{ title }}</h1>
-    {{ content | safe }}
+
+    <div class="columns">
+        <div class="column column--left animate__animated animate__fadeInLeftBig">
+            {{ content | safe }}
+        </div>
+
+        <div class="column column--right animate__animated animate__fadeIn">
+            <img src="../../assets/images/blog/{{ imageFile }}" alt="{{ imageAlt }}">
+        </div>
+    </div>
+
 </article>

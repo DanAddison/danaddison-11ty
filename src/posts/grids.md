@@ -1,13 +1,16 @@
 ---
 favorite: true
-title: Grids.
-excerpt: I studied painting at Kingston School of Art from 2001 to 2004. Much of my output from that time involved grid.
+title: Grids
+excerpt: I studied painting at Kingston School of Art from 2001 to 2004. Much of my output from that time involved grids
 date: 2020-09-17
+imageFile: reps-detail-4.jpeg
+imageAlt: Detail from Reps - acrylic on canvas
 ---
 
 I studied painting at Kingston School of Art from 2001 to 2004. Much of my output from that time involved grids, and I see this work as a thinking-out-loud exercise, a personal investigation into what it is to make images and what it is to view them.
 
-“these products are really just records, documents, outgrowths of this process of becoming conscious” - Joseph Beuys
+> “these products are really just records, documents, outgrowths of this process of becoming conscious”
+> Joseph Beuys
 
 Each square in my grid paintings is chosen at random, executed in total isolation from its surrounding squares, and is worked on up to a common time limit. I felt that to zero in on one component at a time was, paradoxically, to defer to the primacy of the canvas as a whole, as no constituent part gets unequal attention despite what information it might contain. I liked the democracy of this, an explicit reminder to me that every square inch of a picture is essential to its overall composition and effect.
 
@@ -18,6 +21,8 @@ When the viewer inspects the canvas at close range, they may make their own valu
 I also like the way this primitive method of mechanical reproduction demonstrates my human fallibility so clearly. Squares jar against each other; in this way an image which at a glance might be described as photo-realistic, actually 'demonstrates itself', to paraphrase Richter. I'd hope that the viewer does not read a painting as an illusionistic quote from the real world, but instead conciously encounters it as a physical fact in its own right.
 
 I try to further emphasise surface by including imperfections in the source image such as scratches from the photocopier glass, or by painting the surface of water, which slows our eye as we can't make an instant 'read'. It's hard to identify a scale, our consumerist eye trained on instant visual signalling is frustrated when a referential 'something' refuses to emerge from marks of pigment.
+
+<!-- ![here is my alt description](../../assets/images/reps-detail-1.jpeg) -->
 
 Or I simply leave some squares blank. Ironically, this heightens the illusion of three dimensional space 'behind' the white picture-plane. Further emphasis here on the substantiveness of the photograph itself which is the true subject matter, this flat analogue of the real world, with its distinctive depth-of-field effect which somehow signifies 'truth', or 'reality'.
 

@@ -1,3 +1,15 @@
-.post__date {
+// post previews
+.post-date {
     color: $color-light;
+}
+
+// single posts
+.single-post {
+    .columns {
+        flex-direction: column-reverse;
+
+        @include mq(lg) {
+            flex-direction: row;
+        }
+    }
 }
