@@ -12,4 +12,16 @@
             flex-direction: row;
         }
     }
+
+    .back-link {
+        .arrow--left {
+            border: solid $color-yellow;
+            border-width: 0 2px 2px 0;
+            display: inline-block;
+            padding: 3px;
+            transform: rotate(135deg);
+            margin-bottom: 1px;
+            margin-right: 0.25em;
+        }
+    }
 }

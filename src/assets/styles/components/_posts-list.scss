@@ -1,5 +1,8 @@
 .posts-list {
     margin-top: $spacing;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
 
     &__item {
         margin-bottom: $spacing * 2;

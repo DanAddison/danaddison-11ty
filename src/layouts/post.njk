@@ -2,6 +2,12 @@
 layout: base
 ---
 <article class="single-post">
+
+    <p class="back-link">
+        <a href="/blog">
+            <i class="arrow--left"></i>blog</a>
+    </p>
+
     <p class="post-date">{{ date | dateToFormat('DD') }}</p>
     <h1>{{ title }}</h1>
 
@@ -10,9 +16,14 @@ layout: base
             {{ content | safe }}
         </div>
 
-        <div class="column column--right animate__animated animate__fadeIn">
+        <div class="column column--right animate__animated animate__fadeIn animate__delay-2s">
             <img src="../../assets/images/blog/{{ imageFile }}" alt="{{ imageAlt }}">
         </div>
     </div>
+
+    <p class="back-link">
+        <a href="/blog">
+            <i class="arrow--left"></i>blog</a>
+    </p>
 
 </article>

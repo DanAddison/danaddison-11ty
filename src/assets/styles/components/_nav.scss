@@ -6,6 +6,12 @@
         @include button-reset;
     }
 
+    &__menu {
+        list-style: none;
+        margin: 0;
+        padding-left: 0;
+    }
+
     &__item {
         &--active a {
             color: $color-yellow;

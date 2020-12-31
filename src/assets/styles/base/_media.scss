@@ -1,4 +1,7 @@
 img {
+    display: block;
+    margin-top: $spacing/2;
+    margin-bottom: $spacing;
     height: auto; /* Make sure images are scaled correctly. */
     max-width: 100%; /* Adhere to container width. */
 }
@@ -15,6 +18,7 @@ iframe {
 }
 
 .video-responsive {
+    margin-top: $spacing/2;
     margin-bottom: $spacing;
     overflow: hidden;
     padding-bottom: 55%;

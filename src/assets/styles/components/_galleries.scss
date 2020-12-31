@@ -1,5 +1,12 @@
 // used at foot of Music page
 .gallery {
+    figure {
+        margin-bottom: $spacing;
+
+        img {
+            margin-bottom: 0.5em;
+        }
+    }
     @include mq(md) {
         display: flex;
         margin-left: -$spacing;
