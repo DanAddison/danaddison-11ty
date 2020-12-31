@@ -1,7 +1,7 @@
 ---
 favorite: true
 title: Lockdown Links
-excerpt: Nullam ac tortor vitae purus faucibus. Et sollicitudin ac orci phasellus egestas tellus rutrum.
+excerpt: Links to some cool videos and articles to keep you entertained in lockdown
 date: 2020-03-22
 imageFile: chain.jpg
 imageAlt: Photo of chain links by Joshua Hoehne on Unsplash

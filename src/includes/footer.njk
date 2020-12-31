@@ -1,9 +1,14 @@
 <footer class="footer" role="contentinfo">
-    <div class="footer__inner container">
-        <span>&copy; Dan Addison {{ build.timestamp | dateToFormat('yyyy') }}</span>
-        <ul class="footer-icons">
-          <li><a href="https://github.com/DanAddison">{% icon "github" %}</a></li>
-          <li><a href="https://www.instagram.com/dandevelops/">{% icon "instagram" %}</a></li>
-        </ul>
-    </div>
+  <div class="footer__inner container">
+    <span>&copy; Dan Addison
+      {{ build.timestamp | dateToFormat('yyyy') }}</span>
+    <ul class="footer-icons">
+      <li>
+        <a href="https://github.com/DanAddison" target="_blank" rel="noreferrer noopener" aria-label="This is an external link (opens in a new tab)">{% icon "github" %}</a>
+      </li>
+      <li>
+        <a href="https://www.instagram.com/dandevelops/" target="_blank" rel="noreferrer noopener" aria-label="This is an external link (opens in a new tab)">{% icon "instagram" %}</a>
+      </li>
+    </ul>
+  </div>
 </footer>

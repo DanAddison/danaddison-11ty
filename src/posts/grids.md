@@ -1,7 +1,7 @@
 ---
 favorite: true
 title: Grids
-excerpt: I studied painting at Kingston School of Art from 2001 to 2004. Much of my output from that time involved grids
+excerpt: A wordy analysis of my grid-based paintings
 date: 2020-09-17
 imageFile: reps-detail-4.jpeg
 imageAlt: Detail from Reps - acrylic on canvas
