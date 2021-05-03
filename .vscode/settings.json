@@ -13,10 +13,13 @@
     "titleBar.activeBackground": "#263943",
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#26394399",
-    "titleBar.inactiveForeground": "#e7e7e799",
-    "editorGroup.border": "#385564",
-    "panel.border": "#385564",
-    "sideBar.border": "#385564"
+    "titleBar.inactiveForeground": "#e7e7e799"
+},
+  "peacock.color": "#263943",
+  "files.associations": {
+    "*.html": "njk"
   },
-  "peacock.color": "#263943"
+  "emmet.includeLanguages": {
+    "njk": "html"
+  }
 }
