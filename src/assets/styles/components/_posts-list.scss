@@ -4,14 +4,31 @@
     margin: 0;
     padding-left: 0;
 
+    &--external {
+        padding: $spacing;
+        background-color: rgba($color-light, .05);
+    }
+
     &__item {
-        margin-bottom: $spacing * 2;
+        margin-bottom: $spacing;
+
+        .external-flag {
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-size: .75rem;
+            color: $color-light;
+            margin-bottom: 0;
+        }
 
         h2 {
             margin-bottom: 0;
 
             a {
                 text-decoration: none;
+            }
+
+            .posts-list--external & {
+                font-size: 1.25rem;
             }
         }
 
@@ -40,6 +57,22 @@
         &:focus {
             text-decoration: none;
             color: $color-yellow;
+        }
+    }
+
+    &.posts-list--external {
+
+        .icon {
+            font-size: 1.25em;
+            height: 1em;
+            width: 1em;
+            vertical-align: middle;
+            fill: $color-light;
+
+            &:hover,
+            &:focus {
+                fill: $color-yellow;
+            }
         }
     }
 }
