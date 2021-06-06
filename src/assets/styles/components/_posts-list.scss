@@ -5,6 +5,7 @@
     padding-left: 0;
 
     &--external {
+        max-width: 800px;
         padding: $spacing;
         background-color: rgba($color-light, .05);
     }
