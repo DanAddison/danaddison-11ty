@@ -49,7 +49,7 @@ Don’t sweat your tone too much at open mic nights. Sound is the medium we work
 
 ## Go it alone
 
-Consider *not* bringing friends for support, especially if you suspect that they won’t sit quietly giving other performers the same attention they give you. Open mics are often attended almost exclusively by fellow performers, and that’s fine. You’ll engage with new people, your new comrades, rather than remain locked into your usual social bubble, constrained by any expectations that that puts on you. Rocking up to an open mic alone is a rite of passage.
+Consider *not* bringing friends for support, especially if you suspect that they won’t sit quietly giving other performers the same attention they give you. Open mics are often attended almost exclusively by fellow performers, and that’s fine. You’ll engage with new people, almost instantly forging bonds over battle, rather than remain locked into your usual social bubble, which can be constraining when you're trying to do something new and bold and  against expectation. Rocking up to an open mic alone is a rite of passage.
 
 ## Practice setting up
 
@@ -65,7 +65,7 @@ If the house rules are just two songs, never take liberties with that and sneak 
 
 ## Get comfy with the microphone
 
-If you’re not accustomed to mic stands you might need to fumble about awkwardly for a bit to get the mic in a good position. No worries, take your time on that. You want to be able to sing in whatever posture is natural for you, not one dictated by the mic. And you don’t want the dreaded mid-song droop, as a poorly tightened boom arm gets further and further away from you!
+If you’re not accustomed to mic stands you might need to fumble about awkwardly for a bit to get the mic in a good position. No worries, take your time on that. You want to be able to sing in whatever posture is natural for you, not one dictated by the mic. And you don’t want the dreaded mid-song droop, as a poorly tightened boom arm slowly creeps further and further away from you!
 
 ## Be supportive
 
