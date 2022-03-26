@@ -1,5 +1,5 @@
 ---
-favorite: true
+favorite: false
 title: Open mic hacks for singer-songwriters
 excerpt: The 'wisdom' [questionable opinions] of an open mic veteran
 date: 2022-03-23
@@ -74,3 +74,7 @@ Be compassionate and encouraging towards the other acts. Personally, my taste in
 ## Keep trying
 
 Cultivate a healthy capacity for embarrassment. You can't curate everything the way you do your Instagram account. To be a creative person is to put yourself out there and to be vulnerable and to fail publicly. As Beckett said, “Try again. Fail again. Fail better”.
+
+<!-- ---
+
+*I filmed a companion piece to this post <a href="https://www.youtube.com/watch?v=xm3rEZiJFIc&feature=youtu.be" target="_blank" rel="noreferrer noopener" aria-label="This is an external link (opens in a new tab)">here.</a>* -->

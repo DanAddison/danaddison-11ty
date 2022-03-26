@@ -1,5 +1,5 @@
 ---
-favorite: true
+favorite: false
 title: Grids
 excerpt: A wordy analysis of my grid-based paintings
 date: 2020-09-17
