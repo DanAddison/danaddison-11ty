@@ -45,4 +45,4 @@ Tiny guitars make it easier for **forestfloor** to spend time writing and compos
 
 See for yourself - we recorded the following video spontaneously with nothing but two iPhones, and I’ll bet that the sonic characteristics of our guitars, and the image they project, have nothing to do with whether you love or hate the video. It’ll just come down to the song itself.
 
-*I filmed a companion piece to this post <a href="https://www.youtube.com/watch?v=xm3rEZiJFIc&feature=youtu.be" target="_blank" rel="noreferrer noopener" aria-label="This is an external link (opens in a new tab)">here.</a>*
+[![Watch the video](https://img.youtube.com/vi/BMdzjxfqqI4/hqdefault.jpg)](https://www.youtube.com/embed/BMdzjxfqqI4)
