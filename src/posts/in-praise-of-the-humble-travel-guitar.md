@@ -8,11 +8,11 @@ imageAlt: Two travel acoustic guitars leaning against a wall with shadows
   
 ---
 
-These days I have hardly any time, money or physical space to dedicate to making music. Dad Lyfe. So I’m down to one acoustic guitar, and it’s a humble little guy. The Taylor BT1e 3/4 sized travel guitar, to be precise. You never really see a grown man playing one on-stage, the same way you never see a grown man order a half-pint. Come to watch my current band **forestfloor** and you’ll get to see *two* grown men playing these diminutive guitars (and quite possibly nursing half-pints, tbh) and you’ll go: “huh.”
+These days I have hardly any time, money or physical space to dedicate to making music. Dad Lyfe. So I’m down to one acoustic guitar, and it’s a humble little guy. The [Taylor BT1e 3/4 sized travel guitar](https://www.taylorguitars.com/guitars/acoustic/bt1e), to be precise. You never really see a grown man playing one on-stage, the same way you never see a grown man order a half-pint. Come to watch my current band [forestfloor](https://forestfloormusic.com) and you’ll get to see *two* grown men playing these diminutive guitars (and quite possibly nursing half-pints, tbh) and you’ll go: “huh.”
 
 ## Huh, indeed
 
-Let me explain why acoustic indie-folk duo **forestfloor** uses 3/4 sized guitars exclusively. It’s an epic tale of love and loss spanning generations and striking at the quivering heart of man’s inhumanity to…. okay it’s actually just about convenience.
+Let me explain why acoustic indie-folk duo [forestfloor](https://forestfloormusic.com) uses 3/4 sized guitars exclusively. It’s an epic tale of love and loss spanning generations and striking at the quivering heart of man’s inhumanity to…. okay it’s actually just about convenience.
 
 ## Convenience
 
@@ -26,10 +26,12 @@ Contrary to the romantic Myth of the Artist, creative types usually tread an org
 
 ## Just show up
 
-You may have heard it said that “the best workout is the one you do”. It doesn’t matter how far from ‘optimal’ that workout is. If it’s the only one you’ll do consistently, then it’s the best. The best guitar for you is the one that you’ll play the most. It’s a pretty simple equation. You *could* argue that timbre is just as important as proficiency. Or just get technical about it and point out that there isn’t a positive correlation between playing hours and proficiency at all. Practice doesn’t make perfect. Practice makes permanent. If you practice poorly, you’ll only ever play poorly. Spamming the same few licks and chords endlessly is less effective than a brief high-quality **practice session where something is actually happening. 
+You may have heard it said that “the best workout is the one you do”. It doesn’t matter how far from ‘optimal’ that workout is. If it’s the only one you’ll do consistently, then it’s the best. The best guitar for you is the one that you’ll play the most. It’s a pretty simple equation. You *could* argue that timbre is just as important as proficiency. Or just get technical about it and point out that there isn’t a positive correlation between playing hours and proficiency at all. Practice doesn’t make perfect. Practice makes permanent. If you practice poorly, you’ll only ever play poorly. Spamming the same few licks and chords endlessly is less effective than a brief high-quality practice session where something is actually happening. 
 
 But, let’s be real. It kind of *is* as simple as you might intuit: those that play a lot, get good. You have to put in the work, you have to expose yourself to music-making as much as possible to make music as well as possible. You have to be present, both literally and psychologically, for moments of serendipity to land.
-    “Inspiration exists, but it has to find you working” - Pablo Picasso
+
+> “Inspiration exists, but it has to find you working.”
+> Pablo Picasso
 
 ## Pathetic
 
@@ -41,7 +43,7 @@ If this whets your appetite to try a travel guitar yourself, you can ignore the 
 
 You could have the most achingly sonorous sounding guitar ever crafted, but if your song is lame, shush please. On the other hand, if your songwriting is good, you’ll get my attention with a shoebox and an elastic band. The specific guitar that you play matters far less than we’re lead to believe. The thing that matters most is how much it entices you to play. Play more = get more gooder.
 
-Tiny guitars make it easier for **forestfloor** to spend time writing and composing and practicing quietly while the house sleeps. They also make it easier to physically carry our act into public spaces for daylight bookings, when we’re also physically carrying toddlers and babies and buggies and change-bags and scooters and that gnarly stick the 3-year old insists upon keeping to hand for the rest of the day. These are significant wins for our beleaguered band!
+Tiny guitars make it easier for [forestfloor](https://forestfloormusic.com) to spend time writing and composing and practicing quietly while the house sleeps. They also make it easier to physically carry our act into public spaces for daylight bookings, when we’re also physically carrying toddlers and babies and buggies and change-bags and scooters and that gnarly stick the 3-year old insists upon keeping to hand for the rest of the day. These are significant wins for our beleaguered band!
 
 See for yourself - we recorded the following video spontaneously with nothing but two iPhones, and I’ll bet that the sonic characteristics of our guitars, and the image they project, have nothing to do with whether you love or hate the video. It’ll just come down to the song itself.
 
