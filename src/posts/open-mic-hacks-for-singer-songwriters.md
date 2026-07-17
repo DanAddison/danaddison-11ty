@@ -17,11 +17,11 @@ Everybody at open mics seems compelled to punctuate their setlist with an array 
 
 ## Record your set
 
-This is not about getting a great recording for posterity, so don’t worry about the device you use, or its position in the room. An iPhone in your pocket will do. It’s merely about evaluating your performance by listening back objectively. This is the only way to truly recognise that you play all of your songs way too fast onstage. Or that your mic control is poor because you’re paying far more attention to your guitar playing. Or that the audience applause was actually just lukewarm and cursory, rather than joyful and sustained. When your recording captures only a subdued smattering of polite applause, it’s a clear indication that you are simply not good. Not good *yet.* So gather some data in the form of a recording, analyse your material, your delivery, and the effect on the crowd, and figure out how to improve.
+This is not about getting a great recording for posterity, so don’t worry about the device you use, or its position in the room. An iPhone in your pocket will do. It’s merely about evaluating your performance by listening back objectively. This is the only way to truly recognise that you play all of your songs way too fast onstage. Or that your mic control is poor because you’re paying far more attention to your guitar playing. Or that the audience applause was actually just lukewarm and cursory, rather than joyful and sustained. When your recording captures only a subdued smattering of polite applause, it’s an indication that you are, in fact, not good. Not good *yet.* So gather some data in the form of a recording, analyse your material, your delivery, and the effect on the crowd, and figure out how to improve.
 
 ## Learn from everyone
 
-Your favourite local performers will likely become your closest friends and collaborators and band mates, and even your chief source of inspiration on your musical journey. You’ll be their most staunch advocate, as they will be yours. But there will be plenty to glean from the ones that make you want to spring from the room clawing at your ears, too. Reframe the moment not as entertainment but as research. This person is teaching you what *not* to do, if nothing else. It’s all valuable.
+Your favourite local performers will likely become your closest friends and collaborators and band mates, and even your chief source of inspiration on your musical journey. You’ll be their most staunch advocate, as they will be yours. But there will be plenty to glean from the ones that offend your ears, too. Reframe the moment not as entertainment, but as research. This person is teaching you what *not* to do, if nothing else. It’s all valuable.
 
 ## Say something
 
@@ -34,10 +34,6 @@ Don’t use a notebook or ipad placed on a music stand as an aide mémoire durin
 ## Arrive early, stick around
 
 This one is about the logistics of ensuring you get your name on the list to play. It’s also about respect for the organiser and venue and other performers. And thirdly it’s about being available for the chance encounters, or moments of inspiration, or nuggets of opportunity that cannot possibly land if you are not physically there to catch them. The host cannot accommodate everybody and keep the night flowing if we’re all rocking up fashionably late. Get there early, settle into the environment, buy a drink so that the venue can survive to host again another day. Say hi to people. Good gig etiquette and professionalism play a major role in how you make your own luck in this game.
-
-## The jack lead nod
-
-When you’ve strummed your last chord, you might want to sprint from the stage in shame, or dive from the stage into the arms of an adoring crowd, but wait! Wait for an exchanged nod with the sound engineer. Then unplug your jack lead. The venue’s equipment and the audience’s eardrums will thank you.
 
 ## Add variety to your set
 
@@ -69,7 +65,7 @@ If you’re not accustomed to mic stands you might need to fumble about awkwardl
 
 ## Be supportive
 
-Be compassionate and encouraging towards the other acts. Personally, my taste in music, as in all art forms, is very critical. I’m the kind of person who can be counted on to think that the new Netflix series everybody is obsessed with is utter trash. I’m insufferable like that, it’s just how I’m wired. So I probably won’t enjoy many of the other acts. But I will still listen to them attentively, and clap, and find something I can compliment if I end up chatting to them. Not because I’m full-of-shit, hopefully. But because I have the basic empathy to recognise the courage it takes to stand up and communicate something meaningful. Perhaps us performers are just narcissists, but I’d prefer to believe that performing our music is an open-hearted and un-ironic act of sharing in jaded times. So give everyone a thumbs up for effort, at least.
+Be compassionate and encouraging towards the other acts. Personally, my taste in music, as in all art forms, is very critical. I might not enjoy many of the other acts very much. But I will still listen to them attentively, and clap, and find some aspect of their writing or performance that I can compliment if I end up chatting to them. Not because I’m full-of-shit, hopefully. But because I recognise the courage it takes to stand up and communicate something meaningful. Perhaps us performers are just narcissists, but I’d prefer to believe that performing our music is an open-hearted and un-ironic act of sharing in otherwise jaded times. So give everyone a big thumbs up for effort, at least.
 
 ## Keep trying
 
